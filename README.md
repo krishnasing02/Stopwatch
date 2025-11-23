@@ -1,0 +1,2 @@
+# Stopwatch
+A simple, accurate stopwatch built with HTML, CSS, and JavaScript that supports start, stop, lap, and reset controls. It updates the display in real time (hours : minutes : seconds : milliseconds), records lap times, and uses requestAnimationFrame/performance.now() for smooth, reliable timing without drift — all in a lightweight, front-end-only implementation perfect for learning DOM updates and time handling in JavaScript.
